@@ -35,6 +35,7 @@ Tamanho da página
 
 
 🛠️ Tecnologias Utilizadas
+
 C#
 .NET
 LINQ (Language Integrated Query)
