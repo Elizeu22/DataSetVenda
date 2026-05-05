@@ -1,4 +1,5 @@
 ﻿📊 Processamento de Dataset de Vendas com LINQ
+ 
 📌 Descrição
 
 Processe um dataset de vendas aplicando operações LINQ encadeadas para extrair
